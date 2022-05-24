@@ -1,0 +1,5 @@
+if game.PlaceId == 2375548386 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/hajibeza/RIPPER-HUB/main/README.md'))()
+else
+	  game.Players.localPlayer:Kick("You Have Been Banned For Pernament Days")
+end
